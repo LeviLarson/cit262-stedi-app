@@ -36,7 +36,7 @@ const Login = ({loggedInState, loggedInStates,setLoggedInState})=>{
               backgroundColor='#e6f0d5'
               placeholderTextColor='#818181' 
               placeholder='Name'>          
-               </TextInput>
+               </TextInput> 
 
             {/* <TouchableOpacity
              style={styles.bioButton}
